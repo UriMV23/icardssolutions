@@ -1,0 +1,24 @@
+/* scrollbar.css */
+
+/* Estilo de la barra de desplazamiento */
+::-webkit-scrollbar {
+    width: 10px; /* Ancho de la barra */
+  }
+  
+  /* Fondo de la barra de desplazamiento */
+  ::-webkit-scrollbar-track {
+    background: #f1f1f100; /* Color de fondo */
+  }
+  
+  /* Color del "thumb" o la parte desplazable de la barra */
+  ::-webkit-scrollbar-thumb {
+    background: #888888; /* Color */
+    border-radius: 10px;
+  }
+  
+  /* Esquina de la barra de desplazamiento */
+  ::-webkit-scrollbar-corner {
+    background: transparent; /* Puedes dejarla transparente o darle un color */
+    
+  }
+  

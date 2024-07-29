@@ -1,0 +1,21 @@
+/* PrivacyNotice.css */
+.privacy-notice {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: rgba(48, 48, 48, 0.667);
+    color: white;
+    text-align: center;
+    padding: 10px;
+    z-index: 1000;
+  }
+  
+  .privacy-notice a {
+    color: #ffffff;
+    text-decoration: underline;
+  }
+  
+  .privacy-notice a:hover {
+    color: #cccccc;
+  }
+  
