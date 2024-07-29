@@ -246,7 +246,7 @@ const Major = () => {
               <img src="https://img.freepik.com/vector-premium/gradiente-azul-marino-borroso-gris-azul-caqui-fondo-papel-tapiz-degradado-naranja_172010-1362.jpg" alt="" />
               <div className="content">
               <h1>ICards Solutions</h1>
-              <p>-ICards</p>
+              <p>-Esta es una prueba</p>
               </div>
             </div>
           </article>
