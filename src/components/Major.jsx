@@ -160,6 +160,7 @@ const Major = () => {
           end: "bottom 85%"
         }
       });
+
       
       // Animate the text blocks
       const LINES = document.querySelectorAll(".text-blocks p");
@@ -246,7 +247,7 @@ const Major = () => {
               <img src="https://img.freepik.com/vector-premium/gradiente-azul-marino-borroso-gris-azul-caqui-fondo-papel-tapiz-degradado-naranja_172010-1362.jpg" alt="" />
               <div className="content">
               <h1>ICards Solutions</h1>
-              <p>-Esta es una prueba</p>
+              <p>-Icards Solutions Web</p>
               </div>
             </div>
           </article>
@@ -310,10 +311,6 @@ const Major = () => {
           </article>
           
         </section>
-
-        <footer>
-          <PrivacyNotice /> 
-        </footer>
 
       </main>
     </div>
