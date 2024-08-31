@@ -4,8 +4,6 @@ import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import '../styles/Major.css';
 import '../styles/Scrollbar.css';
 import '../styles/PrivacyNotice.css'
-import PrivacyNotice from './PrivacyNotice';
-import LogoIC2 from '../images/LogoIC2.jpg';
 
 gsap.registerPlugin(ScrollTrigger);
 
